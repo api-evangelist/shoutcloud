@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: http://shoutcloud.io/
 common:
+  - type: DomainSecurity
+    url: security/shoutcloud-domain-security.yml
   - type: Website
     url: http://shoutcloud.io/
   - type: PublicAPIsListing
